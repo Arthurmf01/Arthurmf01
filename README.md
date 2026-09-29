@@ -12,6 +12,9 @@ I ship a lot of small things: agentic tools, voice interfaces, and automation th
 - ⚙️ Automation that runs my own notes, outreach, and research end to end
 - 📈 An Independent Study Project at INSEAD on **AI and the labour market**
 
+**In the open**
+- 🧠 [claude-skills](https://github.com/Arthurmf01/claude-skills) — how I plan and build software with agents: a planner, a build loop with a *separate* evaluator (an agent shouldn't grade its own work), and a knowledge-base auditor
+
 **Background**: MSc Computer Science (IE) · Economics (HEC Montréal) · based in London.
 
 I also write about AI and the future of work.
